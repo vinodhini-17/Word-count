@@ -40,7 +40,8 @@ print("Number of words={}".format(num_words))
 
 ### OUTPUT:
 
-![Alt text](word.png)
+![word](https://github.com/vinodhini-17/Word-count/assets/145742741/3c0900f6-9681-4a88-b00e-7384df9e467d)
+
 
 
 ## RESULT:
