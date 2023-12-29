@@ -21,7 +21,7 @@ Anaconda - Python 3.7
 
 ### OUTPUT:
 
-
+![OUTPUT](./images/5c.png)
 
 ## RESULT:
 Thus the program is written to find the word count from a text.
